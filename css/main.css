@@ -183,6 +183,10 @@ body > .container-fluid {
         padding-top: 0; } }
     .about-last p {
       color: #25b79f; }
+a {
+  color: #25b79f;
+      font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+}
 
 #portfolio {
   background-color: #25b79f; }
